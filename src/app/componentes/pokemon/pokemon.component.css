@@ -1,0 +1,30 @@
+article{
+    text-align: center;
+}
+
+h2{
+    color: rgb(0, 242, 255);
+}
+
+p{
+    color: rgb(4, 141, 141);
+}
+
+ul{
+    list-style-type: none;
+    width: 100%;
+}
+
+li{
+    border: 3px solid rgb(4, 140, 147);
+    padding: 50px;
+    width: 30%;
+    margin: 3vw auto;
+    border-radius: 30px;
+    background-color: rgb(4, 240, 253);
+    box-shadow: 0 0 30px rgb(1, 65, 68)
+}
+
+li:hover{
+    box-shadow: 0 0 30px rgb(255, 24, 251);
+}

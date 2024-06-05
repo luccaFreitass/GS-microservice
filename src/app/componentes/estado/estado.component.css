@@ -1,0 +1,21 @@
+article{
+    text-align: center;
+}
+
+h2{
+    color: rgb(0, 242, 255);
+}
+
+p{
+    color: rgb(4, 141, 141);
+}
+
+table{
+    width: 50%;
+    margin: 0 auto;
+    border-radius: 30px;
+}
+
+th{
+    color: rgb(10, 160, 160);
+}
